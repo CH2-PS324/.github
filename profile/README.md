@@ -11,10 +11,10 @@ Hi everyone! We are from CH2-PS324. We consist of 7 people and these are my team
 | M384BSY1390  | Muhammad Rizky Pratama Siregar | Machine Learning | Universitas Muhammadiyah Sumatera Utara | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizky-pratama-siregar-919b5a245/) |
 | M013BSX0412  | Annisa | Machine Learning | Universitas Terbuka | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annisatoriq/) |
 | M302BSY0741  | Arkananta Dhimas Naufal | Machine Learning | Universitas Pertamina | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkanantadhimas/) |
-| A128BSY2831 | Alfian Fakhrudin | Mobile Development | Politeknik Negeri Jakarta | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfian-fakhrudin-9285b5216/) |
-| A278BSY2418 | Muh. Sahrul Dalle | Mobile Development | Universitas Negeri Makassar | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muh-sahrul-dalle-443587294/) |
 | C183BSY3109  | Iqbal Pamula Ba'iq | Cloud Computing | Universitas Amikom Yogyakarta | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbalpamula/) |
 | C657BSY3025  | Hafiz Caniago | Cloud Computing | Sekolah Tinggi Ilmu Komputer Poltek Cirebon | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-caniago/) |
+| A128BSY2831 | Alfian Fakhrudin | Mobile Development | Politeknik Negeri Jakarta | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfian-fakhrudin-9285b5216/) |
+| A278BSY2418 | Muh. Sahrul Dalle | Mobile Development | Universitas Negeri Makassar | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muh-sahrul-dalle-443587294/) |
 
 # Theme ⚕️
 Food Accessibility, Agribusiness, and Food Security
