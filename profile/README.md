@@ -4,7 +4,7 @@
 
 # Introduction 👋
 
-Hi everyone! We are from CH2-PS324. We consist of 7 people and these are my team members:
+Hi everyone! We are from CH2-PS324. We consist of 6 people and these are my team members:
 
 | Bangkit ID | Name | Learning Path | University |LinkedIn |
 | ---      | ---       | ---       | ---       | ---       |
