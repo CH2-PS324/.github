@@ -17,8 +17,39 @@ Hi everyone! We are from CH2-PS324. We consist of 6 people and these are my team
 # Theme ⚕️
 Food Accessibility, Agribusiness, and Food Security
 
-# How To Use The App 📱
--
+# App Key Features (Preview)📱
+**1. Login and Register**
 
-# Technical Details
--
+<p align="justify"> Login & Register for using this app</p>
+
+<p align="justify">
+  <img src="https://github.com/CH2-PS324/.github/blob/main/profile/resource/Samsung%20Galaxy%20S20%205G-6.png" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/CH2-PS324/.github/blob/main/profile/resource/Samsung%20Galaxy%20S20%205G-5.png" width="25%" height="25%">
+</p>
+
+**2. Dashboard & Latest Article related Palm Oil**
+
+<p align="justify">Track your dashboard of scanning count and get latest article related to palm oil</p>
+
+<p align="justify">
+  <img src="https://github.com/CH2-PS324/.github/blob/main/profile/resource/Samsung%20Galaxy%20S20%205G-4.png" width="25%" height="25%">
+</p>
+
+**3. Scan Your Palm Oil Fruit, used Brondolan or Bongkahan**
+
+<p align="justify">Scan your Palm Fruit by Brondolan or Piece, and get accurate predictions from our machine learning models.</p>
+
+<p align="justify">
+  <img src="https://github.com/CH2-PS324/.github/blob/main/profile/resource/Samsung%20Galaxy%20S20%205G-1.png" width="25%" height="25%">
+  <span style="margin: 0 9%;"></span> <!-- Jarak antara dua gambar -->
+  <img src="https://github.com/CH2-PS324/.github/blob/main/profile/resource/Samsung%20Galaxy%20S20%205G-2.png" width="25%" height="25%">
+</p>
+
+**4. Tracking Your Palm Oil Fruit Shipment**
+
+<p align="justify">Manage your Palm Oil Shipments and more easily track your company's ordered palm oil shipments</p>
+
+<p align="justify">
+  <img src="https://github.com/CH2-PS324/.github/blob/main/profile/resource/Samsung%20Galaxy%20S20%205G-3.png" width="25%" height="25%">
+</p>
